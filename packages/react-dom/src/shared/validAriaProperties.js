@@ -45,8 +45,11 @@ const ariaProperties = {
   'aria-grabbed': 0,
   // Relationship Attributes
   'aria-activedescendant': 0,
+  'aria-braillelabel': 0,
+  'aria-brailleroledescription': 0,
   'aria-colcount': 0,
   'aria-colindex': 0,
+  'aria-colindextext': 0,
   'aria-colspan': 0,
   'aria-controls': 0,
   'aria-describedby': 0,
@@ -57,6 +60,7 @@ const ariaProperties = {
   'aria-posinset': 0,
   'aria-rowcount': 0,
   'aria-rowindex': 0,
+  'aria-rowindextext': 0,
   'aria-rowspan': 0,
   'aria-setsize': 0,
 };
